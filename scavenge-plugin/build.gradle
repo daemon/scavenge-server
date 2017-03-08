@@ -1,0 +1,62 @@
+apply plugin: 'idea'
+apply plugin: 'java'
+
+version = '0.0.1'
+
+repositories {
+    mavenCentral()
+    flatDir {
+       dirs 'libs'
+    }
+    maven {
+        url "https://oss.sonatype.org/content/repositories/snapshots"
+    }
+    maven {
+        url "http://repo.spongepowered.org/maven"
+    }
+    maven {
+        url "https://nexus.softwaremill.com/content/repositories/releases/"
+    }
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/java']
+        }
+    }
+}
+
+configurations {
+    provided
+    compile.extendsFrom provided
+}
+
+task libraryJar(type: Jar) {
+    baseName = 'scavenge-plugin'
+    manifest {
+        attributes 'Implementation-Title': 'scavenge-plugin',
+                   'Implementation-Version': version
+    }
+    from (sourceSets.main.output) {
+        include "org/scavenge/**"
+    }
+    from ("src/main/resources") {
+        include "**"
+    }
+    from {
+        (configurations.compile - configurations.provided).collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
+
+dependencies {
+    provided group: 'org.spongepowered', name: 'spongeapi', version: '5.0.0'
+    provided name: 'griefprevention-1.10.2-2.3.1.251'
+    provided name: 'votifier-sponge'
+    compile group: 'redis.clients', name: 'jedis', version: '2.9.0'
+    compile group: 'postgresql', name: 'postgresql', version: '9.1-901-1.jdbc4'
+    compile group: 'com.mchange', name: 'c3p0', version: '0.9.5.1'
+    compile group: 'com.rabbitmq', name: 'amqp-client', version: '4.1.0'
+}
+
+buildDir = 'bin'
