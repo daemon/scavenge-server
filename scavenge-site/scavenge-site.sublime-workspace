@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"flex-start"
+			],
+			[
+				"cudamem",
+				"cudaMemcpyHostToDevice"
+			],
+			[
+				"cudaMemcpy",
+				"cudaMemcpyHostToDevice"
+			],
+			[
+				"cudaHost",
+				"cudaMemcpyHostToDevice"
+			],
+			[
+				"table",
+				"table-column"
+			],
+			[
+				"INIT",
+				"INIT_CONNECTION"
+			],
+			[
+				"log",
+				"loglikelihood"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 5068,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n<title>ScavengeCraft: Brand-spanking new FTB SkyFactory 3 server</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/style.css\">\n<meta name=\"keywords\" content=\"SkyFactory 3 server,FTB server,SkyFactory server,FTB economy\">\n<meta name=\"description\" content=\"Brand new SkyFactory 3 FTB server with economy, PvP, and much more! Join us today.\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n</head>\n<body>\n<nav class=\"navbar navbar-default navbar-fixed-top\">\n  <div class=\"container-fluid\">\n    <!-- Brand and toggle get grouped for better mobile display -->\n    <div class=\"navbar-header\">\n      <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\" aria-expanded=\"false\">\n        <span class=\"sr-only\">Toggle navigation</span>\n        <span class=\"icon-bar\"></span>\n        <span class=\"icon-bar\"></span>\n        <span class=\"icon-bar\"></span>\n      </button>\n    </div>\n\n    <!-- Collect the nav links, forms, and other content for toggling -->\n    <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n      <ul class=\"nav navbar-nav\">\n        <li><a href=\"#\">News</a></li>\n        <li class=\"dropdown\">\n          <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Community <span class=\"caret\"></span></a>\n          <ul class=\"dropdown-menu\">\n            <li><a href=\"#\">Forum</a></li>\n            <li><a href=\"#\">Knowledge base</a></li>\n            <li class=\"divider\"></li>\n            <li><a href=\"#\">Discord</a></li>\n            <li><a href=\"#\">Facebook</a></li>\n            <li><a href=\"#\">Instagram</a></li>\n            <li><a href=\"#\">Snapchat</a></li>\n            <li><a href=\"#\">Twitter</a></li>\n          </ul>\n        </li>\n        <li class=\"dropdown\">\n          <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Game <span class=\"caret\"></span></a>\n          <ul class=\"dropdown-menu\">\n            <li><a href=\"#\">Chat</a></li>\n            <li><a href=\"#\">Dynmap</a></li>\n            <li><a href=\"#\">Economy</a></li>\n            <li><a href=\"#\">Vote</a></li>\n          </ul>\n        </li>\n        <li><a href=\"#\">Store</a></li>\n        <li><a href=\"#\">Contact</a></li>\n      </ul>      \n    </div><!-- /.navbar-collapse -->\n  </div><!-- /.container-fluid -->\n</nav>\n<main class=\"fluid-container fill-container\">\n  <div id=\"main-container\">\n    <div id=\"main-title-wrapper\">\n      <img id=\"main-logo\" src=\"/img/scavenge.png\">\n      <h3>A rare <strong>SkyFactory 3</strong> FTB server!</h3>\n    </div>\n    <div id=\"main-attributes-wrapper\">\n      <h2>// dedicated server</h2>\n      <h2>// unique economy</h2>\n      <h2>// 99.9% uptime*</h2>\n    </div>\n  </div>\n  <div id=\"main-server-ip\"><h2>Server IP: <strong>scavenge.org</strong></h2></div>\n  <div id=\"main-submarine\"></div>\n</main>\n\n<script\n  src=\"https://code.jquery.com/jquery-3.1.1.min.js\"\n  integrity=\"sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=\"\n  crossorigin=\"anonymous\"></script>\n<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\"></script>\n</body>\n</html>",
+			"file": "public/index.html",
+			"file_size": 3364,
+			"file_write_time": 131315356120000000,
+			"settings":
+			{
+				"buffer_size": 3364,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "sshtml",
+		"selected_items":
+		[
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"convert to space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sscpp",
+				"SublimeREPL: ClojureScript Browser REPL"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"wordw",
+				"Word Wrap: Toggle"
+			],
+			[
+				"replr",
+				"SublimeREPL: R"
+			],
+			[
+				"ssr",
+				"Set Syntax: R"
+			],
+			[
+				"sspython",
+				"Set Syntax: Python"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"replpython",
+				"SublimeREPL: Python"
+			],
+			[
+				"sspyt",
+				"Set Syntax: Python"
+			],
+			[
+				"repl pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"sublimerepl:r",
+				"SublimeREPL: R"
+			],
+			[
+				"sublimerepl r",
+				"SublimeREPL: R"
+			],
+			[
+				"sublimerep",
+				"SublimeREPL: R"
+			],
+			[
+				"sublimer",
+				"SublimeREPL: R"
+			],
+			[
+				"sublime r",
+				"SublimeREPL: R"
+			],
+			[
+				"sublimerepl: r",
+				"SublimeREPL: R"
+			],
+			[
+				"subreplr",
+				"SublimeREPL: R"
+			],
+			[
+				"R",
+				"Set Syntax: R"
+			],
+			[
+				"sublimerepl: python",
+				"SublimeREPL: Python"
+			],
+			[
+				"sublimerepl:python",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"sublimerepl: pytho",
+				"SublimeREPL: Python"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"repl: r",
+				"SublimeREPL: R"
+			],
+			[
+				"REPL R",
+				"SublimeREPL: R"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/scavenge-site",
+		"/F/scavenge-site/public"
+	],
+	"file_history":
+	[
+		"/F/alpha/.gitignore",
+		"/F/alpha/templates/index.mako",
+		"/F/alpha/__main__.py",
+		"/F/investors-community/ignite/route.py",
+		"/E/Program Files (x86)/Continuum/logs/session.log",
+		"/E/Program Files (x86)/Continuum/logs/session2.log",
+		"/C/Users/tetris/AppData/Roaming/.minecraft/logs/latest.log",
+		"/F/investors-community/ignite/__main__.py",
+		"/F/alpha/alpha/__main__.py",
+		"/F/alpha/alpha/route.py",
+		"/C/Ralph/Programming/elemental-plugin/build.gradle",
+		"/C/Ralph/Programming/elemental-backend/src/main/resources/programs/conv3d.cu",
+		"/F/r33tang/A0/snake.cpp",
+		"/C/Ralph/bin/ontime/PlayerEventListener.java",
+		"/F/investors-community/ignite/database/cache.py",
+		"/F/investors-community/ignite/database/base.py",
+		"/F/investors-community/ignite/database/user.py",
+		"/F/investors-community/ignite/finance.py",
+		"/F/investors-community/ignite/config.py",
+		"/F/investors-community/ignite/database/discussion.py",
+		"/F/investors-community/ignite/database/idea.py",
+		"/F/investors-community/assets/css/style.css",
+		"/F/investors-community/templates/components/navbar-forum.mako",
+		"/F/investors-community/templates/index.mako",
+		"/F/investors-community/assets/css/style-forum.css",
+		"/F/investors-community/templates/components/header.mako",
+		"/F/investors-community/templates/login.mako",
+		"/F/investors-community/templates/signup.mako",
+		"/C/Ralph/UWaterloo/cs486/A1/src/AStarSearch.tpp",
+		"/C/Ralph/UWaterloo/cs486/A1/src/Search.hpp",
+		"/C/Ralph/UWaterloo/cs486/A4/q3/src/HorseStatistic.java",
+		"/F/investors-community/templates/replies.mako",
+		"/F/investors-community/templates/post.mako",
+		"/F/investors-community/templates/ideas.mako",
+		"/F/investors-community/templates/components/navbar.mako",
+		"/C/Ralph/UWaterloo/cs486/A1/src/A1.cpp",
+		"/C/Ralph/UWaterloo/cs486/A4/q3/src/DecisionTree.java",
+		"/C/Ralph/UWaterloo/cs486/A3/src/com/ralphtang/a3/A3.java",
+		"/C/Ralph/UWaterloo/cs486/A2/src/sudoku-helper.py",
+		"/C/Ralph/UWaterloo/cs486/A1/src/TSPSearch.hpp",
+		"/C/Ralph/UWaterloo/cs486/A1/src/Search.tpp",
+		"/C/Ralph/UWaterloo/stat440/q1/mle-check.R",
+		"/F/investors-community/assets/js/jquery-cookie.min.js",
+		"/F/investors-community/investors-community.sublime-project",
+		"/C/Ralph/Programming/777/data/records2.csv",
+		"/C/Ralph/Programming/777/data/uuids.csv",
+		"/C/Ralph/Programming/777/data/records.csv",
+		"/C/Ralph/UWaterloo/stat341/a5/a5.R",
+		"/C/Ralph/UWaterloo/stat341/a1.R",
+		"/C/Ralph/Programming/777/data/errors.csv",
+		"/C/Ralph/Programming/777/data/analyze.py",
+		"/C/Users/tetris/Downloads/Rcode31.R",
+		"/C/Ralph/UWaterloo/cs475/a1/GETimes.m",
+		"/C/Ralph/UWaterloo/cs475/a1/GaussElim.m",
+		"/C/Ralph/UWaterloo/cs475/a1/Lap2D.m",
+		"/F/investors-community/assets/css/bootstrap.min.css",
+		"/F/investors-community/templates/components/footer.mako",
+		"/F/investors-community/ignite/database.py",
+		"/F/investors-community/ignite/db/account.py",
+		"/F/investors-community/ignite/db/base.py",
+		"/C/Ralph/Programming/777/data/analyze.R",
+		"/F/investors-community/templates/logout.mako",
+		"/F/investors-community/assets/js/underscore-min.js",
+		"/F/investors-community/assets/js/backbone-min.js",
+		"/F/investors-community/ignite/ipc.py",
+		"/C/Users/tetris/Downloads/Chapter 10.pptx",
+		"/C/Program Files/OpenVPN/config/client1.ovpn",
+		"/C/Ralph/Programming/777-data/win-records.csv",
+		"/C/Ralph/UWaterloo/stat341/a1/a1.R",
+		"/C/Ralph/VPN/client1.ovpn",
+		"/C/Ralph/UWaterloo/stat341/a2/a2.R",
+		"/C/Ralph/UWaterloo/stat341/a3/a3.R",
+		"/C/Ralph/Programming/777/data/records-raw",
+		"/C/Ralph/Programming/777-data/win-records2.csv",
+		"/C/Ralph/Programming/777-data/records2.csv",
+		"/C/Ralph/Programming/777-data/win_records.csv",
+		"/C/Ralph/Programming/777-data/records.csv",
+		"/C/Ralph/Programming/777-data/ranking.csv",
+		"/C/Ralph/Programming/vypr/index.html",
+		"/C/Ralph/Programming/777-data/records4.csv",
+		"/C/Users/tetris/AppData/Roaming/Microsoft/Windows/Recent/resume.pdf.lnk",
+		"/C/Ralph/Programming/777/data/inferred_data.csv",
+		"/C/Ralph/Programming/777-data/ranking3.csv",
+		"/C/Ralph/Programming/777-data/ranks.csv",
+		"/C/Ralph/Programming/777-data/ranks2.csv",
+		"/C/Ralph/Programming/777-data/find_names.py",
+		"/C/Ralph/Programming/777-data/analyze.py",
+		"/C/Ralph/Programming/777/data/inferred_test.csv",
+		"/C/Ralph/Programming/777-data/errors.csv",
+		"/C/Ralph/UWaterloo/cs486/A2/src/SimAnneal.cpp",
+		"/C/Ralph/Programming/777-data/ranking2.csv",
+		"/C/Ralph/Programming/777-data/inferred_data.csv",
+		"/C/Ralph/Programming/777/build.gradle",
+		"/C/Ralph/Programming/binStr/out/artifacts/binStr_jar/test.txt",
+		"/C/Users/tetris/Downloads/formatted (2).scm",
+		"/C/Users/tetris/Downloads/formatted (1).scm",
+		"/C/Users/tetris/Downloads/formatted.scm",
+		"/C/Users/tetris/Downloads/Rcode5.R",
+		"/C/Users/tetris/Downloads/Rcode3.R",
+		"/C/Users/tetris/Downloads/Rcode1 (1).R",
+		"/C/Users/tetris/Downloads/Rcode4a.R",
+		"/C/Users/tetris/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/tetris/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/C/Ralph/Programming/binStr/out/artifacts/binStr_jar/testing.txt",
+		"/C/Users/tetris/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"margin-top",
+			"main-serv",
+			"main-attribut",
+			"ddd",
+			"42d842",
+			"h2",
+			"padding",
+			"main-title-wrapper hr",
+			"scavenge",
+			"[STAFF]",
+			"config",
+			"route_mako",
+			"0.1",
+			".positions",
+			"public List<Float>",
+			"velocities",
+			"Velocities",
+			"velocities",
+			"Velocities",
+			"velocities",
+			"Velocities",
+			"velocities",
+			"(vel",
+			"vel",
+			"Vel",
+			"vel",
+			"Vel",
+			"vel",
+			"newX",
+			"fieldSize",
+			";",
+			"fz",
+			"fy",
+			"fx",
+			"rho",
+			"dt",
+			"sph_rho",
+			"cudaMalloc",
+			"pos",
+			"dP",
+			"Pos",
+			"particle",
+			" term",
+			"term",
+			"schedule",
+			"t1.snum",
+			"CS135",
+			"mark",
+			"CS240",
+			"CS448",
+			"pnum",
+			"cnum",
+			"c1 < 0 || c3 < 0 || c6 >= fieldLength",
+			"0 ? c1 < 0 || c3 < 0 || c5 < 0",
+			"0 ? c2 >= fieldLength || c3 < 0 || c5 < 0",
+			"fieldW",
+			"fieldV",
+			"vI",
+			"fieldV",
+			"fieldU",
+			"uI",
+			"fieldU",
+			"result",
+			"fieldV",
+			"fieldU",
+			"index",
+			"0",
+			"c1 * area + c3 * fieldLength + c5",
+			"c2 * area + c4 * fieldLength + c6",
+			".x",
+			"fieldU",
+			"fieldLength * fieldLength",
+			"[STAFF]",
+			"aberts",
+			"aberts10",
+			"alberts10",
+			"al",
+			"Aberts10",
+			"alberts10",
+			"Aberts10",
+			"Alberts10",
+			"fieldLength * fieldLength",
+			"totalFieldLength",
+			"fieldLength * fieldLength * fieldLength",
+			"1024",
+			"64",
+			"field",
+			"field[",
+			"xcolour",
+			"XSetForeground",
+			"scoreStr",
+			"dList",
+			"fruit",
+			"event.",
+			"refresh",
+			"fruit",
+			"display",
+			"fruit",
+			"refresh",
+			"FPS",
+			"framerate",
+			"move",
+			"handleAnimation",
+			"speed",
+			"inside",
+			"repaint",
+			"move(",
+			"Fruit",
+			"10",
+			"blockSize",
+			"pair",
+			"width",
+			"distribution",
+			"speed",
+			"move",
+			"is.d",
+			"s.d",
+			"this",
+			"setDirection",
+			"direction",
+			"speed",
+			"argv",
+			"snake",
+			"direction",
+			"FAG",
+			"handleKeyP",
+			"inside",
+			"type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".navbar-default-forum"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4473,
+								4473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "scavenge-site.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"snake.cpp",
+				"A0\\snake.cpp"
+			],
+			[
+				"style",
+				"assets\\css\\style.css"
+			],
+			[
+				"navb",
+				"templates\\components\\navbar.mako"
+			],
+			[
+				"login",
+				"templates\\login.mako"
+			],
+			[
+				"ideas",
+				"templates\\ideas.mako"
+			],
+			[
+				"idea.py",
+				"ignite\\database\\idea.py"
+			],
+			[
+				"route",
+				"ignite\\route.py"
+			],
+			[
+				"header",
+				"templates\\components\\header.mako"
+			],
+			[
+				"navba",
+				"templates\\components\\navbar.mako"
+			],
+			[
+				"signup",
+				"templates\\signup.mako"
+			],
+			[
+				"post",
+				"templates\\post.mako"
+			],
+			[
+				"navbar",
+				"templates\\components\\navbar.mako"
+			],
+			[
+				"stylecs",
+				"assets\\css\\style.css"
+			],
+			[
+				"st",
+				"assets\\css\\style.css"
+			],
+			[
+				"index",
+				"templates\\index.mako"
+			],
+			[
+				"hea",
+				"templates\\components\\header.mako"
+			],
+			[
+				"finan",
+				"ignite\\finance.py"
+			],
+			[
+				"databa",
+				"ignite\\database\\idea.py"
+			],
+			[
+				"idea",
+				"templates\\ideas.mako"
+			],
+			[
+				"user",
+				"ignite\\database\\user.py"
+			],
+			[
+				"sign",
+				"templates\\signup.mako"
+			],
+			[
+				"account",
+				"ignite\\database\\account.py"
+			],
+			[
+				"account.py",
+				"ignite\\database\\account.py"
+			],
+			[
+				"database",
+				"ignite\\database.py"
+			],
+			[
+				"auth",
+				"templates\\auth.mako"
+			],
+			[
+				"bootstrap",
+				"assets\\css\\bootstrap.min.css"
+			],
+			[
+				"boot",
+				"assets\\css\\bootstrap.min.css"
+			],
+			[
+				"head",
+				"templates\\components\\header.mako"
+			],
+			[
+				"analy",
+				"C:\\Ralph\\Programming\\777-data\\analyze.py"
+			],
+			[
+				"ranks.csv",
+				"C:\\Ralph\\Programming\\777-data\\ranks.csv"
+			],
+			[
+				"records4",
+				"C:\\Ralph\\Programming\\777-data\\records4.csv"
+			],
+			[
+				"inferre",
+				"C:\\Ralph\\Programming\\777\\data\\inferred_test.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 140.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
